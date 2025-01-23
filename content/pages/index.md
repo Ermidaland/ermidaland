@@ -15,10 +15,13 @@ sections:
     variant: variant-b
     title: Terreno com Projeto Aprovado
     subtitle: ''
-    text: |
-      Matosinhos
-      Zona nobre em São Mamede Infesta
-      Com tudo preparado para dar início à construção da sua nova residência
+    text: |+
+      *   Matosinhos
+
+      *   Zona nobre em São Mamede Infesta
+
+      *   Com tudo preparado para dar início à construção da sua nova residência
+
     elementId: ''
     styles:
       self:
