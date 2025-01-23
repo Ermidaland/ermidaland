@@ -165,4 +165,5 @@ sections:
         textAlign: left
 metaTitle: Terreno à venda Matosinhos
 socialImage: /images/frente-moradia-ampliada.png
+metaDescription: Terreno à venda São Mamede Infesta
 ---
