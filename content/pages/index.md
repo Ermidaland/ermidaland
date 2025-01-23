@@ -94,6 +94,45 @@ sections:
       todos os detalhes já planeados. Apresentamos um terreno com projeto
       aprovado para uma moradia unifamiliar, desenhada para oferecer conforto,
       funcionalidade e elegância.
+  - type: TextSection
+    colors: colors-c
+    variant: variant-b
+    title: Projeto Moderno e Funcional
+    subtitle: ''
+    text: >+
+      *   Aquitetura contemporânea, com linhas modernas e uma perfeita
+      integração na paisagem envolvente.
+
+
+      *   3 quartos amplos, incluindo uma suíte principal com closet e varanda.
+
+
+      *   Sala de estar espaçosa, ideal para momentos de lazer e convívio.
+
+
+      *   Cozinha de conceito aberto, prática e adaptada ao ritmo de vida
+      moderno.
+
+
+      *   Jardim privativo e área de convívio ao ar livre.
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: MediaGallerySection
     title: ''
     subtitle: ''
@@ -179,45 +218,6 @@ sections:
 
       A poucos minutos das principais vias de acesso, garantindo comodidade no
       seu dia a dia.
-  - type: TextSection
-    colors: colors-c
-    variant: variant-b
-    title: Projeto Moderno e Funcional
-    subtitle: ''
-    text: >+
-      *   Aquitetura contemporânea, com linhas modernas e uma perfeita
-      integração na paisagem envolvente.
-
-
-      *   3 quartos amplos, incluindo uma suíte principal com closet e varanda.
-
-
-      *   Sala de estar espaçosa, ideal para momentos de lazer e convívio.
-
-
-      *   Cozinha de conceito aberto, prática e adaptada ao ritmo de vida
-      moderno.
-
-
-      *   Jardim privativo e área de convívio ao ar livre.
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: MediaGallerySection
     title: ''
     subtitle: ''
