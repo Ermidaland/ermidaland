@@ -223,7 +223,7 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/planta-com-aproveitamento-sotao.png
         altText: Image one
         caption: Image one caption
         elementId: ''
