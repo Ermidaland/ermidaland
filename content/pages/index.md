@@ -16,17 +16,14 @@ sections:
     title: Terreno com Projeto Aprovado
     subtitle: ''
     text: >+
-      *   **Zona nobre de São Mamede Infesta**
+      *   **Zona nobre em São Mamede Infesta**
 
 
       *   **Com tudo preparado para dar início à construção da sua nova
       residência**
 
 
-      *   **220 m2**
-
-
-      *   **180.000 €**
+      *
 
     elementId: ''
     styles:
