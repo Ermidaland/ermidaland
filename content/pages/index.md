@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/traseira-moradia.png
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 21
 sections:
   - elementId: ''
