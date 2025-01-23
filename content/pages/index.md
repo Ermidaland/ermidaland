@@ -288,7 +288,8 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Contacte-nos
-    text: I'm look forward to hearing from you.
+    text: |
+      Texto
     form:
       type: FormBlock
       title: Title of the form
