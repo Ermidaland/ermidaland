@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Terreno
-colors: colors-c
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/traseira-moradia.png
