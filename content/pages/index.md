@@ -65,7 +65,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/foto-real-terreno.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
