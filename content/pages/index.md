@@ -53,7 +53,7 @@ sections:
       aprovado para uma moradia unifamiliar, desenhada para oferecer conforto,
       funcionalidade e elegância.
   - type: MediaGallerySection
-    title: Projeto
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
