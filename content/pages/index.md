@@ -152,7 +152,7 @@ sections:
       seu dia a dia.
 
 
-      ![](/images/google-maps1.png)
+      ![](/images/google-maps2.png)
     elementId: ''
     styles:
       self:
