@@ -53,16 +53,7 @@ sections:
       todos os detalhes já planeados. Apresentamos um terreno com projeto
       aprovado para uma moradia unifamiliar, desenhada para oferecer conforto,
       funcionalidade e elegância.
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/foto-real-terreno.png
