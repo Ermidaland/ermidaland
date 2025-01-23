@@ -43,9 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: HeroSection
-    title: >-
-      I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: ''
     subtitle: >-
       Terreno com projeto aprovado para construção de uma moradia unifamiliar de
       tipologia T4, de duas frentes, formada por rés do chão, primeiro andar e
