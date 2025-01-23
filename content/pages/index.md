@@ -131,13 +131,24 @@ sections:
     variant: variant-b
     title: Projeto Moderno e Funcional
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      Arquitetura contemporânea, com linhas modernas e uma perfeita integração
+      na paisagem envolvente.
+
+
+      3 Quartos amplos, incluindo uma suíte principal com closet e varanda.
+
+
+      Sala de estar espaçosa, ideal para momentos de lazer e convívio.
+
+
+      Cozinha de conceito aberto, prática e adaptada ao ritmo de vida moderno.
+
+
+      Jardim privativo e área de convívio ao ar livre.
+
+
+
     elementId: ''
     styles:
       self:
