@@ -312,7 +312,7 @@ sections:
           name: ''
           label: ''
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Mensagem
           width: full
           isRequired: true
       submitLabel: Send Message
