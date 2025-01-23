@@ -52,7 +52,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Projeto
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/frente-moradia-ampliada.png
