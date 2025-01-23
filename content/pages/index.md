@@ -180,37 +180,6 @@ sections:
       A poucos minutos das principais vias de acesso, garantindo comodidade no
       seu dia a dia.
   - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Localização Privilegiada
-    text: >
-      Situado numa área calma e de fácil acesso, perto de escolas, comércio e
-      serviços essenciais.
-
-
-      A poucos minutos das principais vias de acesso, garantindo comodidade no
-      seu dia a dia.
-
-
-      ![](/images/google-maps2.png)
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
     colors: colors-c
     variant: variant-b
     title: Projeto Moderno e Funcional
