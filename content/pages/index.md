@@ -22,9 +22,6 @@ sections:
       *   **Com tudo preparado para dar início à construção da sua nova
       residência**
 
-
-      *
-
     elementId: ''
     styles:
       self:
