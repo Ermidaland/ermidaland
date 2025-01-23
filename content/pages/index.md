@@ -69,6 +69,31 @@ sections:
       todos os detalhes já planeados. Apresentamos um terreno com projeto
       aprovado para uma moradia unifamiliar, desenhada para oferecer conforto,
       funcionalidade e elegância.
+  - type: TextSection
+    colors: colors-c
+    variant: variant-a
+    title: Projeto Aprovado e Pronto para Construção
+    subtitle: >-
+      Com todos os trâmites legais concluídos, está tudo preparado para dar
+      início à construção da sua nova residência.
+    text: ''
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: MediaGallerySection
     title: ''
     subtitle: ''
@@ -114,31 +139,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: TextSection
-    colors: colors-c
-    variant: variant-a
-    title: Projeto Aprovado e Pronto para Construção
-    subtitle: >-
-      Com todos os trâmites legais concluídos, está tudo preparado para dar
-      início à construção da sua nova residência.
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: HeroSection
     title: Localização privilegiada
     subtitle: Zona da Ermida
