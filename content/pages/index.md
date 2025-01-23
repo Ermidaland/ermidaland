@@ -36,7 +36,7 @@ sections:
       text:
         textAlign: left
   - type: HeroSection
-    title: Terreno à Venda - Matosinhos
+    title: Matosinhos
     subtitle: São Mamede Infesta - Zona de Ermida
     actions:
       - type: Button
