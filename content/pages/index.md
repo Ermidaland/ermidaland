@@ -142,16 +142,7 @@ sections:
   - type: HeroSection
     title: Localização privilegiada
     subtitle: Zona da Ermida
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/google-maps2.png
