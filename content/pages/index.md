@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: HeroSection
     title: Terreno à Venda - Matosinhos
-    subtitle: Oportunidade Única
+    subtitle: São Mamede Infesta - Zona de Ermida
     actions:
       - type: Button
         label: 180.000 €
