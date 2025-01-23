@@ -184,6 +184,13 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: >
+      Situado numa área calma e de fácil acesso, perto de escolas, comércio e
+      serviços essenciais.
+
+
+      A poucos minutos das principais vias de acesso, garantindo comodidade no
+      seu dia a dia.
   - type: TextSection
     colors: colors-f
     variant: variant-a
