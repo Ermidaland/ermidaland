@@ -18,7 +18,7 @@ sections:
         label: 180.000 €
         altText: ''
         url: ''
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
