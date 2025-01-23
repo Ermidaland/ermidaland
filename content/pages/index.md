@@ -140,7 +140,7 @@ sections:
       text:
         textAlign: left
   - type: HeroSection
-    title: 'Localização '
+    title: Localização privilegiada
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
