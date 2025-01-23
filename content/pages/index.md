@@ -136,7 +136,7 @@ sections:
       integração na paisagem envolvente.
 
 
-      *   3 Quartos amplos, incluindo uma suíte principal com closet e varanda.
+      *   3 quartos amplos, incluindo uma suíte principal com closet e varanda.
 
 
       *   Sala de estar espaçosa, ideal para momentos de lazer e convívio.
@@ -147,8 +147,6 @@ sections:
 
 
       *   Jardim privativo e área de convívio ao ar livre.
-
-
 
     elementId: ''
     styles:
