@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-a
-    backgroundSize: full
+    backgroundSize: inset
     title: Terreno à Venda - Oportunidade Exclusiva!
     subtitle: ''
     styles:
