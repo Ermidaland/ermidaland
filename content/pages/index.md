@@ -113,7 +113,7 @@ sections:
         - name: Último nome
           label: Último nome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Último nome
           isRequired: false
           width: 1/2
           type: TextFormControl
