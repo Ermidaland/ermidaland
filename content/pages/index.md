@@ -326,7 +326,7 @@ sections:
       altText: Contact form image
       caption: Caption of the image
       elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
