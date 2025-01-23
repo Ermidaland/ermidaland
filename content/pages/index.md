@@ -17,7 +17,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/foto-real-terreno.png
-      altText: Hero image
+      altText: terreno são mamede infesta - matosinhos
       caption: Caption of the image
       elementId: ''
     colors: colors-b
