@@ -303,7 +303,7 @@ sections:
           isRequired: 'true'
         - type: EmailFormControl
           name: Email
-          label: NamEmaile
+          label: ''
           hideLabel: false
           placeholder: Your email
           width: 1/2
