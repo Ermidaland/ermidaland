@@ -128,7 +128,7 @@ sections:
           label: Morada
           hideLabel: true
           placeholder: Morada
-          isRequired: true
+          isRequired: false
           width: 1/2
           type: TextFormControl
         - type: TextFormControl
