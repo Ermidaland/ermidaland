@@ -17,7 +17,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: 180.000 €
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
