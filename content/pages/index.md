@@ -8,7 +8,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 42
+  opacity: 36
 sections:
   - type: HeroSection
     title: Terreno à Venda
