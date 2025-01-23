@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Terreno
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
