@@ -131,6 +131,13 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
+        - type: TextFormControl
+          name: Testo
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: "Submeter \U0001F680"
       styles:
         submitLabel:
