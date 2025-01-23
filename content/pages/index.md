@@ -298,7 +298,7 @@ sections:
           name: Nome
           label: Nome
           hideLabel: false
-          placeholder: Your name
+          placeholder: Nome
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
