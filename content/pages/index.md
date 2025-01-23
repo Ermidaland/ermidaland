@@ -132,7 +132,7 @@ sections:
           width: 1/2
           type: TextFormControl
         - type: TextFormControl
-          name: Testo
+          name: Texto
           label: Name
           hideLabel: false
           placeholder: Your name
