@@ -159,7 +159,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/google-maps2.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
