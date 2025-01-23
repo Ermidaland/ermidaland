@@ -310,7 +310,7 @@ sections:
           isRequired: 'true'
         - type: TextareaFormControl
           name: Mensagem
-          label: Tell me about your project
+          label: Mensagem
           hideLabel: true
           placeholder: Tell me about your project
           width: full
