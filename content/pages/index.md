@@ -137,7 +137,7 @@ sections:
           hideLabel: false
           placeholder: Texto
           width: full
-          isRequired: false
+          isRequired: true
       submitLabel: "Submeter \U0001F680"
       styles:
         submitLabel:
