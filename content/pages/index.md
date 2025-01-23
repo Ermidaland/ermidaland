@@ -287,7 +287,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    title: Contact Me
+    title: Contacte-nos
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
