@@ -135,7 +135,7 @@ sections:
           name: Texto
           label: Texto
           hideLabel: false
-          placeholder: Your name
+          placeholder: Texto
           width: full
           isRequired: false
       submitLabel: "Submeter \U0001F680"
