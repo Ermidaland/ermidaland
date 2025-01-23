@@ -132,20 +132,21 @@ sections:
     title: Projeto Moderno e Funcional
     subtitle: ''
     text: >+
-      Arquitetura contemporânea, com linhas modernas e uma perfeita integração
-      na paisagem envolvente.
+      *   Aquitetura contemporânea, com linhas modernas e uma perfeita
+      integração na paisagem envolvente.
 
 
-      3 Quartos amplos, incluindo uma suíte principal com closet e varanda.
+      *   3 Quartos amplos, incluindo uma suíte principal com closet e varanda.
 
 
-      Sala de estar espaçosa, ideal para momentos de lazer e convívio.
+      *   Sala de estar espaçosa, ideal para momentos de lazer e convívio.
 
 
-      Cozinha de conceito aberto, prática e adaptada ao ritmo de vida moderno.
+      *   Cozinha de conceito aberto, prática e adaptada ao ritmo de vida
+      moderno.
 
 
-      Jardim privativo e área de convívio ao ar livre.
+      *   Jardim privativo e área de convívio ao ar livre.
 
 
 
