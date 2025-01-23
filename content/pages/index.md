@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Terreno à Venda - Oportunidade Exclusiva!
     subtitle: >-
       Terreno com projeto aprovado para construção de uma moradia unifamiliar de
