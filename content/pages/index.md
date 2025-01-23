@@ -51,7 +51,7 @@ sections:
     type: HeroSection
     actions: []
   - type: MediaGallerySection
-    title: Gallery
+    title: Projeto
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
