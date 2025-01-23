@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 42
 sections:
   - elementId: ''
-    colors: colors-a
+    colors: colors-d
     backgroundSize: full
     title: Terreno à Venda - Oportunidade Exclusiva!
     subtitle: ''
