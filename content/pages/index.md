@@ -127,7 +127,7 @@ sections:
         - name: Morada
           label: Morada
           hideLabel: true
-          placeholder: Address
+          placeholder: Morada
           isRequired: true
           width: 1/2
           type: TextFormControl
