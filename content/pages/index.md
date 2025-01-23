@@ -108,8 +108,6 @@ sections:
       seu dia a dia.
 
 
-
-
       ![](/images/google-maps1.png)
     elementId: ''
     styles:
