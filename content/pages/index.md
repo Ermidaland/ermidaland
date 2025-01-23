@@ -130,7 +130,7 @@ sections:
     colors: colors-c
     variant: variant-b
     title: Projeto Moderno e Funcional
-    subtitle: The section subtitle
+    subtitle: ''
     text: >+
       Arquitetura contemporânea, com linhas modernas e uma perfeita integração
       na paisagem envolvente.
