@@ -127,7 +127,7 @@ sections:
       text:
         textAlign: left
   - type: TextSection
-    colors: colors-b
+    colors: colors-c
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
