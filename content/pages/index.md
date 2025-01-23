@@ -15,9 +15,13 @@ sections:
     variant: variant-b
     title: Terreno com Projeto Aprovado
     subtitle: ''
-    text: >
-      **Zona nobre de São Mamede Infesta - Com tudo preparado para dar início à
-      construção da sua nova residência.**
+    text: >+
+      *   **Zona nobre de São Mamede Infesta**
+
+
+      *   **Com tudo preparado para dar início à construção da sua nova
+      residência**
+
     elementId: ''
     styles:
       self:
