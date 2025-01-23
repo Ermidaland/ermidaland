@@ -14,15 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Terreno à Venda - Oportunidade Exclusiva!
-    subtitle: >-
-      Terreno com projeto aprovado para construção de uma moradia unifamiliar de
-      tipologia T4, de duas frentes, formada por rés do chão, primeiro andar e
-      aproveitamento do vão de telhado, situado na Rua Aquilino Ribeiro, zona de
-      Ermida, em São Mamede de Infesta.Esta é a oportunidade ideal para quem
-      procura um imóvel onde possa construir uma moradia de alta qualidade e com
-      todos os detalhes já planeados. Apresentamos um terreno com projeto
-      aprovado para uma moradia unifamiliar, desenhada para oferecer conforto,
-      funcionalidade e elegância.
+    subtitle: ''
     styles:
       self:
         height: auto
