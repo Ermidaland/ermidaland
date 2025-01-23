@@ -44,7 +44,7 @@ sections:
     actions: []
   - type: HeroSection
     title: Terreno à Venda
-    subtitle: ''
+    subtitle: Oportunidade Única
     actions: []
     media:
       type: ImageBlock
