@@ -15,7 +15,7 @@ sections:
     subtitle: Oportunidade Única
     actions:
       - type: Button
-        label: Learn more
+        label: 180.000 €
         altText: ''
         url: ''
         showIcon: false
