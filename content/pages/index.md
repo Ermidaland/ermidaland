@@ -60,7 +60,7 @@ sections:
       altText: Hero image
       caption: Caption of the image
       elementId: ''
-    colors: colors-e
+    colors: colors-b
     backgroundSize: inset
     elementId: ''
     styles:
