@@ -315,7 +315,7 @@ sections:
           placeholder: Mensagem
           width: full
           isRequired: true
-      submitLabel: Send Message
+      submitLabel: Submeter
       elementId: contact-form
       styles:
         submitLabel:
