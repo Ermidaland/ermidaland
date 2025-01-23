@@ -23,6 +23,14 @@ sections:
         iconPosition: left
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 210 m2
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/foto-real-terreno.png
