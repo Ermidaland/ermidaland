@@ -18,7 +18,7 @@ sections:
       type: ImageBlock
       url: /images/foto-real-terreno.png
       altText: terreno são mamede infesta - matosinhos
-      caption: Caption of the image
+      caption: terreno para venda
       elementId: ''
     colors: colors-b
     backgroundSize: inset
