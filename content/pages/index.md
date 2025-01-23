@@ -305,7 +305,7 @@ sections:
           name: ''
           label: ''
           hideLabel: false
-          placeholder: Your email
+          placeholder: Email
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
