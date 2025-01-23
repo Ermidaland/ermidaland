@@ -98,7 +98,7 @@ sections:
   - type: TextSection
     colors: colors-c
     variant: variant-a
-    title: The Section Title
+    title: Projeto Aprovado e Pronto para Construção
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
