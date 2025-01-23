@@ -96,7 +96,7 @@ sections:
       subtitle:
         textAlign: center
   - type: TextSection
-    colors: colors-d
+    colors: colors-c
     variant: variant-a
     title: The Section Title
     subtitle: The section subtitle
