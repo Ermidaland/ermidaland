@@ -125,7 +125,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: Morada
-          label: Address
+          label: Morada
           hideLabel: true
           placeholder: Address
           isRequired: true
