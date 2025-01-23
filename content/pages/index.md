@@ -26,7 +26,7 @@ sections:
       - type: Link
         label: 210 m2
         altText: ''
-        url: 210 m2
+        url: ''
         showIcon: false
         icon: arrowRight
         iconPosition: right
