@@ -163,6 +163,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-metaTitle: 'Terreno à venda '
+metaTitle: Terreno à venda Matosinhos
 socialImage: /images/frente-moradia-ampliada.png
 ---
