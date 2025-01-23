@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 30
 sections:
   - type: TextSection
-    colors: colors-b
+    colors: colors-d
     variant: variant-a
     title: Terreno com Projeto Aprovado e Pronto para Construção
     subtitle: Matosinhos
