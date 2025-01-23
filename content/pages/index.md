@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: TextSection
     colors: colors-c
-    variant: variant-a
+    variant: variant-b
     title: Terreno com Projeto Aprovado
     subtitle: ''
     text: >
