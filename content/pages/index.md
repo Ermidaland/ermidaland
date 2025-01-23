@@ -125,7 +125,7 @@ sections:
       text:
         textAlign: left
   - type: TextSection
-    colors: colors-b
+    colors: colors-f
     variant: variant-a
     title: Localização Privilegiada
     text: >
