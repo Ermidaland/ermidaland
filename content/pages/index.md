@@ -24,7 +24,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: 210 m2
         altText: ''
         url: 210 m2
         showIcon: false
