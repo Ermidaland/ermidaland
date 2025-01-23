@@ -16,8 +16,8 @@ sections:
     title: Terreno com Projeto Aprovado e Pronto para Construção
     subtitle: Matosinhos
     text: >
-      Com todos os trâmites legais concluídos, está tudo preparado para dar
-      início à construção da sua nova residência.
+      **Com tudo preparado para dar início à construção da sua nova
+      residência.**
     elementId: ''
     styles:
       self:
