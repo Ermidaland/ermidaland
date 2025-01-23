@@ -32,7 +32,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "93",
+            "phoneNumber": "93 xxx xxx xxx",
             "phoneAltText": "My phone number",
             "email": "email.@myemail.me",
             "emailAltText": "My email",
