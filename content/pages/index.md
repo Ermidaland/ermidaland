@@ -296,7 +296,7 @@ sections:
       fields:
         - type: TextFormControl
           name: Nome
-          label: Nome
+          label: ''
           hideLabel: false
           placeholder: Nome
           width: 1/2
