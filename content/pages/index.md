@@ -20,7 +20,7 @@ sections:
       altText: terreno são mamede infesta - matosinhos
       caption: terreno para venda
       elementId: ''
-    colors: colors-b
+    colors: colors-f
     backgroundSize: inset
     elementId: ''
     styles:
