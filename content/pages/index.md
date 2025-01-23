@@ -289,7 +289,7 @@ sections:
   - type: ContactSection
     title: Contacte-nos
     text: |
-      Texto
+      Tem interesse?
     form:
       type: FormBlock
       title: Title of the form
