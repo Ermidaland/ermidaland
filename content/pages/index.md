@@ -218,36 +218,6 @@ sections:
 
       A poucos minutos das principais vias de acesso, garantindo comodidade no
       seu dia a dia.
-  - type: MediaGallerySection
-    title: ''
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: /images/planta-com-aproveitamento-sotao.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 4
-    aspectRatio: '4:3'
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: ContactSection
     title: Contacte-nos
     text: |
