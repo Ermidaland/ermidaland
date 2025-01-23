@@ -164,4 +164,5 @@ sections:
       text:
         textAlign: left
 metaTitle: 'Terreno à venda '
+socialImage: /images/frente-moradia-ampliada.png
 ---
