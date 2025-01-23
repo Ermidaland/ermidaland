@@ -13,7 +13,16 @@ sections:
   - type: HeroSection
     title: Terreno à Venda
     subtitle: Oportunidade Única
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 180.000 €
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/foto-real-terreno.png
