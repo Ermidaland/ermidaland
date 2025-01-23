@@ -43,7 +43,7 @@ sections:
     type: HeroSection
     actions: []
   - type: HeroSection
-    title: ''
+    title: Terreno à Venda
     subtitle: ''
     actions: []
     media:
