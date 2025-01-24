@@ -44,7 +44,7 @@ sections:
     subtitle: São Mamede Infesta - Zona de Ermida
     actions:
       - type: Button
-        label: 180.000 €
+        label: 185.000 €
         altText: ''
         url: ''
         showIcon: false
